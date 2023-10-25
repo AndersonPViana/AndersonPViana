@@ -8,9 +8,9 @@
 
 ## Habilidades
 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
